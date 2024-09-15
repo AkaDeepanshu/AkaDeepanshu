@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Sharma</h1>
-<h3 align="center">I'm a proactive 4th-year BTech CSE student, passionate about AI/ML, web development, and mobile apps. With expertise in Python, MySQL, JavaScript, and Flutter, I thrive on solving complex problems and creating innovative solutions.</h3>
+<h3 align="center">I'm a proactive 4th-year BTech CS student, passionate about AI/ML, web development, and mobile apps. With expertise in Python, MySQL, JavaScript, and Flutter, I thrive on solving complex problems and creating innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepanshu&label=Profile%20views&color=0e75b6&style=flat" alt="akadeepanshu" /> </p>
 
