@@ -7,7 +7,7 @@
 
 ```ts
 const deepanshu = {
-  role     : "Full Stack Developer  →  Backend & System Design",
+  role     : "Full Stack Developer",
   focus    : ["Scalable APIs", "Real-time Systems", "System Design", "DSA"],
   stack    : ["Node.js", "NestJS", "PostgreSQL", "Redis", "Docker", "Next.js"],
   currently: "Building at Opskube 🚀",
